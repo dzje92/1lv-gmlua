@@ -1,1 +1,1 @@
-print("🟢 Literals [ 6 ] ")
+print("🟢 Literals [ 6 ] - V1 ")
