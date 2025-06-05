@@ -1,1 +1,1 @@
-print("🟢 Luamina PULL [ 14 ] ")
+print("🟢 Luamina PULL [ 14 ] - V1 ")
