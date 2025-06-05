@@ -1,1 +1,0 @@
-print("🟢 Table Indirection [ 9 ] ")
