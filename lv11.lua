@@ -1,1 +1,1 @@
-print("🟢 Minify* [ 11 ] ")
+print("🟢 Minify* [ 11 ] - V1 ")
