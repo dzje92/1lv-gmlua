@@ -1,0 +1,1 @@
+print("🟢 Literals [ 6 ] ")

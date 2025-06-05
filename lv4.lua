@@ -1,0 +1,1 @@
+print("🟢 Enc Func Dec [ 4 ] ")
