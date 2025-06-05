@@ -1,1 +1,0 @@
-print("🟢 Luamina PUSH [ 14 ] ")
